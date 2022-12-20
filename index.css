@@ -154,7 +154,7 @@ body,html {
     border-bottom:2px solid rgba(255,255,255,1);
 }
 ::placeholder {
-    color:#fff;
+    color:#000;
 }
 .btn_one {
     color:white;
